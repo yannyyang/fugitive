@@ -1,1 +1,2 @@
-baseurl: /fugitive
+baseurl: /fugitive;
+permalink: date;
